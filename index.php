@@ -32,6 +32,7 @@
 <div class="video">
 <video controls="controls">
 <source src="aa.mp4" type="video/mp4">
+</source>
 </video>
 </div>
 
